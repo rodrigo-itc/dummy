@@ -5,3 +5,4 @@ this is line 2
 and this is the third
 
 another line from my local
+another line from remote
